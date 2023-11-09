@@ -1,0 +1,10 @@
+android_app_import {
+        name: "MyUIWidgets",
+        owner: "motorola",
+        apk: "MyUIWidgets.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+        product_specific: true,
+}
